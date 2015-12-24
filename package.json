@@ -1,0 +1,9 @@
+{
+  "name": "risen",
+  "version": "0.0.1",
+  "description": "FrontEnd for eCommerce site.",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "^0.5.1"
+  }
+}
